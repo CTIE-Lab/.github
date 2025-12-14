@@ -1,3 +1,2 @@
-A computer sciences & technology research club affiliated with a certain school in South China Region.
-
+来自松山湖畔的神秘力量
 
