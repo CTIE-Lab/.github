@@ -41,3 +41,6 @@
 - **社团负责人-zer0ptr(Hailin Zheng): iszhenghailin@gmail.com**
 - **[SSL-Narwhal的个人空间-哔哩哔哩](https://b23.tv/QVStcA1)**
 - **QQ: MjE2ODA1NjUxMg== (Base64 Encoding)**
+
+## 活动风采
+![社团活动](./picture/成员风采.png)
