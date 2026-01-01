@@ -11,7 +11,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><small>SSL-Narwhal</small></td>
+    <td align="center"><small>OpenDGSSZ</small></td>
     <td align="center"><small>Dongguan No.13 High School</small></td>
   </tr>
 </table>
